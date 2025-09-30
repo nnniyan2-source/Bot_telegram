@@ -4,13 +4,13 @@ Bot Telegram yang dapat mengelola multiple bot sekaligus dengan fitur user manag
 
 📋 Fitur
 
-#· ✅ Multi-bot Support - Jalankan banyak bot sekaligus
-#· ✅ User Management - Auto-save data pengguna ke JSON
-#· ✅ Premium System - Sistem premium user dengan creditsn
-#· ✅ Security Features - Input validation & sanitization
-#· ✅ Command System - Prefix-based commands dengan logging
-#· ✅ Rate Limiting - Mencegah spam
-#· ✅ Error Handling - Comprehensive error management
+· ✅ Multi-bot Support - Jalankan banyak bot sekaligus
+· ✅ User Management - Auto-save data pengguna ke JSON
+· ✅ Premium System - Sistem premium user dengan creditsn
+· ✅ Security Features - Input validation & sanitization
+· ✅ Command System - Prefix-based commands dengan logging
+· ✅ Rate Limiting - Mencegah spam
+· ✅ Error Handling - Comprehensive error management
 
 🚀 Instalasi
 
