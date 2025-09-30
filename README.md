@@ -5,11 +5,17 @@ Bot Telegram yang dapat mengelola multiple bot sekaligus dengan fitur user manag
 📋 Fitur
 
 · ✅ Multi-bot Support - Jalankan banyak bot sekaligus
+
 · ✅ User Management - Auto-save data pengguna ke JSON
+
 · ✅ Premium System - Sistem premium user dengan creditsn
+
 · ✅ Security Features - Input validation & sanitization
+
 · ✅ Command System - Prefix-based commands dengan logging
+
 · ✅ Rate Limiting - Mencegah spam
+
 · ✅ Error Handling - Comprehensive error management
 
 🚀 Instalasi
@@ -280,9 +286,13 @@ token.json
 🤝 Kontribusi
 
 1. Fork repository
+
 2. Buat feature branch (git checkout -b feature/AmazingFeature)
+
 3. Commit changes (git commit -m 'Add AmazingFeature')
+
 4. Push branch (git push origin feature/AmazingFeature)
+
 5. Buat Pull Request
 
 📝 License
@@ -294,8 +304,11 @@ Distributed under the MIT License. See LICENSE for more information.
 Jika mengalami masalah:
 
 1. Cek section Troubleshooting di atas
+
 2. Pastikan semua dependencies terinstall
+
 3. Jalankan fix_imghdr.py jika menggunakan Python 3.13+
+
 4. Buat issue di GitHub repository
 
 ---
