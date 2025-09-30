@@ -24,8 +24,8 @@ Bot Telegram yang dapat mengelola multiple bot sekaligus dengan fitur user manag
 
 ```bash
 # Clone dari GitHub
-git clone https://github.com/username/multi-bot-telegram.git
-cd multi-bot-telegram
+git clone https://github.com/nnniyan2-source/Bot_telegram.git
+cd Bot_telegram
 
 # Atau download manual dan extract
 ```
